@@ -1,0 +1,122 @@
+﻿Accuracy	:	96.81493684788578
+Precision	:	96.83594636211366
+Recall	:	96.81673759481211
+F1 Score	:	96.81465923868853
+
+[ 틀린 데이터 ]
+19 모델 : 1 / 정답 : 0 / 예제 : those who managed to avoid the deconstructionist theorizing of french philosopher jacques derrida in college can now take an 85-minute brush-up course with the documentary derrida .
+
+58 모델 : 1 / 정답 : 0 / 예제 : as are its star , its attitude and its obliviousness .
+
+69 모델 : 0 / 정답 : 1 / 예제 : a sensual performance from abbass buoys the flimsy story , but her inner journey is largely unexplored and we 're left wondering about this exotic-looking woman whose emotional depths are only hinted at .
+
+96 모델 : 1 / 정답 : 0 / 예제 : director dirk shafer and co-writer greg hinton ride the dubious divide where gay porn reaches for serious drama .
+
+118 모델 : 1 / 정답 : 0 / 예제 : imagine if you will a tony hawk skating video interspliced with footage from behind enemy lines and set to jersey shore techno .
+
+122 모델 : 0 / 정답 : 1 / 예제 : escapism in its purest form .
+
+158 모델 : 1 / 정답 : 0 / 예제 : the result is solemn and horrifying , yet strangely detached .
+
+184 모델 : 0 / 정답 : 1 / 예제 : rain is a small treasure , enveloping the viewer in a literal and spiritual torpor that is anything but cathartic .
+
+228 모델 : 1 / 정답 : 0 / 예제 : thirty years ago , it would have been groundbreaking .
+
+302 모델 : 0 / 정답 : 1 / 예제 : christians sensitive to a reductionist view of their lord as a luv-spreading dr. feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise god for delivering such an instant camp classic .
+
+305 모델 : 1 / 정답 : 0 / 예제 : the writers , director wally wolodarsky , and all the actors should start their own coeducational fraternity : kappa rho alpha phi .
+
+308 모델 : 1 / 정답 : 0 / 예제 : based on a david leavitt story , the film shares that writer 's usual blend of observant cleverness , too-facile coincidence and slightly noxious preciousness .
+
+338 모델 : 0 / 정답 : 1 / 예제 : what you would end up with if you took orwell , bradbury , kafka , george lucas and the wachowski brothers and threw them into a blender .
+
+347 모델 : 1 / 정답 : 0 / 예제 : it 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .
+
+378 모델 : 1 / 정답 : 0 / 예제 : but in its child-centered , claustrophobic context , it can be just as frightening and disturbing -- even punishing .
+
+398 모델 : 1 / 정답 : 0 / 예제 : say this for the soundtrack , it drowns out the lousy dialogue .
+
+488 모델 : 0 / 정답 : 1 / 예제 : with the film 's striking ending , one realizes that we have a long way to go before we fully understand all the sexual permutations involved .
+
+601 모델 : 1 / 정답 : 0 / 예제 : son of the bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .
+
+609 모델 : 1 / 정답 : 0 / 예제 : has it ever been possible to say that williams has truly inhabited a character ?
+
+633 모델 : 1 / 정답 : 0 / 예제 : moderately involving despite bargain-basement photography and hackneyed romance .
+
+637 모델 : 0 / 정답 : 1 / 예제 : roger michell , who did an appealing job directing persuasion and notting hill in england , gets too artsy in his american debut .
+
+649 모델 : 1 / 정답 : 0 / 예제 : you can practically smell the patchouli oil .
+
+659 모델 : 0 / 정답 : 1 / 예제 : about nowhere kids who appropriated turfs as they found them and become self-made celebrity athletes -- a low-down version of the american dream .
+
+680 모델 : 1 / 정답 : 0 / 예제 : ethan hawke has always fancied himself the bastard child of the beatnik generation and it 's all over his chelsea walls .
+
+715 모델 : 1 / 정답 : 0 / 예제 : as an actor , the rock is aptly named .
+
+760 모델 : 0 / 정답 : 1 / 예제 : de niro and mcdormand give solid performances , but their screen time is sabotaged by the story 's inability to create interest .
+
+780 모델 : 1 / 정답 : 0 / 예제 : verbinski substitutes atmosphere for action , tedium for thrills .
+
+791 모델 : 1 / 정답 : 0 / 예제 : while benigni -lrb- who stars and co-wrote -rrb- seems to be having a wonderful time , he might be alone in that .
+
+823 모델 : 0 / 정답 : 1 / 예제 : makes an aborbing if arguable case for the man 's greatness .
+
+862 모델 : 0 / 정답 : 1 / 예제 : that zhang would make such a strainingly cute film -- with a blind orphan at its center , no less -- indicates where his ambitions have wandered .
+
+907 모델 : 1 / 정답 : 0 / 예제 : has the feel of an unedited personal journal .
+
+968 모델 : 0 / 정답 : 1 / 예제 : it 's rather like a lifetime special -- pleasant , sweet and forgettable .
+
+971 모델 : 1 / 정답 : 0 / 예제 : when the first few villians are introduced as `` spider '' and `` snake '' you know you 're in for a real winner , creativity at its peak .
+
+996 모델 : 0 / 정답 : 1 / 예제 : if no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .
+
+1065 모델 : 0 / 정답 : 1 / 예제 : more a load of enjoyable , conan-esque claptrap than the punishing , special-effects soul assaults the mummy pictures represent .
+
+1116 모델 : 1 / 정답 : 0 / 예제 : there 's more scatological action in 8 crazy nights than a proctologist is apt to encounter in an entire career .
+
+1146 모델 : 1 / 정답 : 0 / 예제 : this time out , -lrb- sade -rrb- is an unsettlingly familiar figure -- in turns loyal and deceitful , responsible and reckless , idealistically selfless and coldly self-interested .
+
+1166 모델 : 1 / 정답 : 0 / 예제 : it wo n't be long before you 'll spy i spy at a video store near you .
+
+1202 모델 : 0 / 정답 : 1 / 예제 : rather quickly , the film falls into a soothing formula of brotherly conflict and reconciliation .
+
+1219 모델 : 1 / 정답 : 0 / 예제 : nearly surreal , dabbling in french , this is no simple movie , and you 'll be taking a risk if you choose to see it .
+
+1227 모델 : 0 / 정답 : 1 / 예제 : perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .
+
+1233 모델 : 1 / 정답 : 0 / 예제 : sushi for the connoisseurs of the macabre .
+
+1257 모델 : 1 / 정답 : 0 / 예제 : audiences will find no mention of political prisoners or persecutions that might paint the castro regime in less than saintly tones .
+
+1313 모델 : 1 / 정답 : 0 / 예제 : it 's the kind of movie you ca n't quite recommend because it is all windup and not much of a pitch , yet you ca n't bring yourself to dislike it .
+
+1318 모델 : 1 / 정답 : 0 / 예제 : a generation x artifact , capturing a brief era of insanity in the sports arena that surely can not last .
+
+1346 모델 : 0 / 정답 : 1 / 예제 : dazzling and sugar-sweet , a blast of shallow magnificence that only sex , scandal , and a chorus line of dangerous damsels can deliver .
+
+1384 모델 : 1 / 정답 : 0 / 예제 : watching haneke 's film is , aptly enough , a challenge and a punishment .
+
+1424 모델 : 1 / 정답 : 0 / 예제 : going to the website may be just as fun -lrb- and scary -rrb- as going to the film .
+
+1467 모델 : 0 / 정답 : 1 / 예제 : wasabi is slight fare indeed , with the entire project having the feel of something tossed off quickly -lrb- like one of hubert 's punches -rrb- , but it should go down smoothly enough with popcorn .
+
+1578 모델 : 0 / 정답 : 1 / 예제 : `` men in black ii , '' has all the earmarks of a sequel .
+
+1628 모델 : 1 / 정답 : 0 / 예제 : still , it gets the job done -- a sleepy afternoon rental .
+
+1644 모델 : 1 / 정답 : 0 / 예제 : these are names to remember , in order to avoid them in the future .
+
+1653 모델 : 1 / 정답 : 0 / 예제 : somewhere short of tremors on the modern b-scene : neither as funny nor as clever , though an agreeably unpretentious way to spend ninety minutes .
+
+1694 모델 : 1 / 정답 : 0 / 예제 : flat , but with a revelatory performance by michelle williams .
+
+1698 모델 : 1 / 정답 : 0 / 예제 : if you 're not a prepubescent girl , you 'll be laughing at britney spears ' movie-starring debut whenever it does n't have you impatiently squinting at your watch .
+
+1706 모델 : 1 / 정답 : 0 / 예제 : the whole damn thing is ripe for the jerry springer crowd .
+
+1724 모델 : 1 / 정답 : 0 / 예제 : one hour photo is an intriguing snapshot of one man and his delusions ; it 's just too bad it does n't have more flashes of insight .
+
+1760 모델 : 1 / 정답 : 0 / 예제 : ... a haunting vision , with images that seem more like disturbing hallucinations .
+

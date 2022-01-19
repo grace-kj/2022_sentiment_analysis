@@ -1,0 +1,168 @@
+﻿Accuracy	:	95.55189456342669
+Precision	:	95.57456283262735
+Recall	:	95.55378235191941
+F1 Score	:	95.5514599104809
+
+[ 틀린 데이터 ]
+6 모델 : 1 / 정답 : 0 / 예제 : acting , particularly by tambor , almost makes `` never again '' worthwhile , but -lrb- writer\/director -rrb- schaeffer should follow his titular advice
+
+19 모델 : 1 / 정답 : 0 / 예제 : those who managed to avoid the deconstructionist theorizing of french philosopher jacques derrida in college can now take an 85-minute brush-up course with the documentary derrida .
+
+38 모델 : 0 / 정답 : 1 / 예제 : a cockamamie tone poem pitched precipitously between swoony lyricism and violent catastrophe ... the most aggressively nerve-wracking and screamingly neurotic romantic comedy in cinema history .
+
+69 모델 : 0 / 정답 : 1 / 예제 : a sensual performance from abbass buoys the flimsy story , but her inner journey is largely unexplored and we 're left wondering about this exotic-looking woman whose emotional depths are only hinted at .
+
+96 모델 : 1 / 정답 : 0 / 예제 : director dirk shafer and co-writer greg hinton ride the dubious divide where gay porn reaches for serious drama .
+
+120 모델 : 0 / 정답 : 1 / 예제 : the smartest bonehead comedy of the summer .
+
+126 모델 : 1 / 정답 : 0 / 예제 : audiences conditioned to getting weepy over saucer-eyed , downy-cheeked moppets and their empathetic caretakers will probably feel emotionally cheated by the film 's tart , sugar-free wit .
+
+158 모델 : 1 / 정답 : 0 / 예제 : the result is solemn and horrifying , yet strangely detached .
+
+228 모델 : 1 / 정답 : 0 / 예제 : thirty years ago , it would have been groundbreaking .
+
+245 모델 : 1 / 정답 : 0 / 예제 : absorbing and disturbing -- perhaps more disturbing than originally intended -- but a little clarity would have gone a long way .
+
+302 모델 : 0 / 정답 : 1 / 예제 : christians sensitive to a reductionist view of their lord as a luv-spreading dr. feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise god for delivering such an instant camp classic .
+
+308 모델 : 1 / 정답 : 0 / 예제 : based on a david leavitt story , the film shares that writer 's usual blend of observant cleverness , too-facile coincidence and slightly noxious preciousness .
+
+338 모델 : 0 / 정답 : 1 / 예제 : what you would end up with if you took orwell , bradbury , kafka , george lucas and the wachowski brothers and threw them into a blender .
+
+347 모델 : 1 / 정답 : 0 / 예제 : it 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .
+
+367 모델 : 0 / 정답 : 1 / 예제 : he simply presents his point of view that ayurveda works .
+
+378 모델 : 1 / 정답 : 0 / 예제 : but in its child-centered , claustrophobic context , it can be just as frightening and disturbing -- even punishing .
+
+383 모델 : 0 / 정답 : 1 / 예제 : -lrb- fessenden -rrb- is much more into ambiguity and creating mood than he is for on screen thrills
+
+398 모델 : 1 / 정답 : 0 / 예제 : say this for the soundtrack , it drowns out the lousy dialogue .
+
+488 모델 : 0 / 정답 : 1 / 예제 : with the film 's striking ending , one realizes that we have a long way to go before we fully understand all the sexual permutations involved .
+
+498 모델 : 1 / 정답 : 0 / 예제 : but even a hero can stumble sometimes .
+
+499 모델 : 1 / 정답 : 0 / 예제 : the tone shifts abruptly from tense to celebratory to soppy .
+
+601 모델 : 1 / 정답 : 0 / 예제 : son of the bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .
+
+609 모델 : 1 / 정답 : 0 / 예제 : has it ever been possible to say that williams has truly inhabited a character ?
+
+618 모델 : 1 / 정답 : 0 / 예제 : a modest and messy metaphysical thriller offering more questions than answers .
+
+624 모델 : 1 / 정답 : 0 / 예제 : `` collateral damage '' goes by the numbers and reps decent action entertainment -- until the silly showdown ending that forces the viewer to totally suspend disbelief
+
+633 모델 : 1 / 정답 : 0 / 예제 : moderately involving despite bargain-basement photography and hackneyed romance .
+
+637 모델 : 0 / 정답 : 1 / 예제 : roger michell , who did an appealing job directing persuasion and notting hill in england , gets too artsy in his american debut .
+
+649 모델 : 1 / 정답 : 0 / 예제 : you can practically smell the patchouli oil .
+
+659 모델 : 0 / 정답 : 1 / 예제 : about nowhere kids who appropriated turfs as they found them and become self-made celebrity athletes -- a low-down version of the american dream .
+
+711 모델 : 0 / 정답 : 1 / 예제 : i do n't think i 've been as entranced and appalled by an asian film since shinya tsukamoto 's iron man .
+
+715 모델 : 1 / 정답 : 0 / 예제 : as an actor , the rock is aptly named .
+
+751 모델 : 0 / 정답 : 1 / 예제 : bullock does a good job here of working against her natural likability .
+
+760 모델 : 0 / 정답 : 1 / 예제 : de niro and mcdormand give solid performances , but their screen time is sabotaged by the story 's inability to create interest .
+
+780 모델 : 1 / 정답 : 0 / 예제 : verbinski substitutes atmosphere for action , tedium for thrills .
+
+784 모델 : 1 / 정답 : 0 / 예제 : we miss the quirky amazement that used to come along for an integral part of the ride .
+
+791 모델 : 1 / 정답 : 0 / 예제 : while benigni -lrb- who stars and co-wrote -rrb- seems to be having a wonderful time , he might be alone in that .
+
+795 모델 : 0 / 정답 : 1 / 예제 : an impossible romance , but we root for the patronized iranian lad .
+
+799 모델 : 0 / 정답 : 1 / 예제 : if there 's a way to effectively teach kids about the dangers of drugs , i think it 's in projects like the -lrb- unfortunately r-rated -rrb- paid .
+
+823 모델 : 0 / 정답 : 1 / 예제 : makes an aborbing if arguable case for the man 's greatness .
+
+829 모델 : 1 / 정답 : 0 / 예제 : a strong first quarter , slightly less so second quarter , and average second half .
+
+830 모델 : 1 / 정답 : 0 / 예제 : earnest but earthbound ... a slow , soggy , soporific , visually dank crime melodrama\/character study that would be more at home on the small screen but for its stellar cast .
+
+862 모델 : 0 / 정답 : 1 / 예제 : that zhang would make such a strainingly cute film -- with a blind orphan at its center , no less -- indicates where his ambitions have wandered .
+
+907 모델 : 1 / 정답 : 0 / 예제 : has the feel of an unedited personal journal .
+
+942 모델 : 1 / 정답 : 0 / 예제 : it would be hard to think of a recent movie that has worked this hard to achieve this little fun .
+
+971 모델 : 1 / 정답 : 0 / 예제 : when the first few villians are introduced as `` spider '' and `` snake '' you know you 're in for a real winner , creativity at its peak .
+
+974 모델 : 1 / 정답 : 0 / 예제 : even the unwatchable soapdish is more original .
+
+991 모델 : 0 / 정답 : 1 / 예제 : message movie or an action-packed submarine spectacular ?
+
+996 모델 : 0 / 정답 : 1 / 예제 : if no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .
+
+1002 모델 : 0 / 정답 : 1 / 예제 : a movie for 11-year-old boys with sports dreams of their own and the preteen girls who worship lil ' bow wow .
+
+1015 모델 : 0 / 정답 : 1 / 예제 : a perverse little truffle , dainty psychological terror on the outside with a creamy filling of familial jealousy and unrepentant domestic psychopathy .
+
+1051 모델 : 1 / 정답 : 0 / 예제 : an intermittently pleasing but mostly routine effort .
+
+1065 모델 : 0 / 정답 : 1 / 예제 : more a load of enjoyable , conan-esque claptrap than the punishing , special-effects soul assaults the mummy pictures represent .
+
+1116 모델 : 1 / 정답 : 0 / 예제 : there 's more scatological action in 8 crazy nights than a proctologist is apt to encounter in an entire career .
+
+1146 모델 : 1 / 정답 : 0 / 예제 : this time out , -lrb- sade -rrb- is an unsettlingly familiar figure -- in turns loyal and deceitful , responsible and reckless , idealistically selfless and coldly self-interested .
+
+1153 모델 : 0 / 정답 : 1 / 예제 : it 's a minor comedy that tries to balance sweetness with coarseness , while it paints a sad picture of the singles scene .
+
+1161 모델 : 1 / 정답 : 0 / 예제 : ... a weak , manipulative , pencil-thin story that is miraculously able to entertain anyway .
+
+1166 모델 : 1 / 정답 : 0 / 예제 : it wo n't be long before you 'll spy i spy at a video store near you .
+
+1184 모델 : 0 / 정답 : 1 / 예제 : he just wants them to be part of the action , the wallpaper of his chosen reality .
+
+1219 모델 : 1 / 정답 : 0 / 예제 : nearly surreal , dabbling in french , this is no simple movie , and you 'll be taking a risk if you choose to see it .
+
+1227 모델 : 0 / 정답 : 1 / 예제 : perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .
+
+1233 모델 : 1 / 정답 : 0 / 예제 : sushi for the connoisseurs of the macabre .
+
+1250 모델 : 0 / 정답 : 1 / 예제 : succeeds in providing a disquiet world the long-dreaded completion of the police academy series .
+
+1257 모델 : 1 / 정답 : 0 / 예제 : audiences will find no mention of political prisoners or persecutions that might paint the castro regime in less than saintly tones .
+
+1313 모델 : 1 / 정답 : 0 / 예제 : it 's the kind of movie you ca n't quite recommend because it is all windup and not much of a pitch , yet you ca n't bring yourself to dislike it .
+
+1318 모델 : 1 / 정답 : 0 / 예제 : a generation x artifact , capturing a brief era of insanity in the sports arena that surely can not last .
+
+1384 모델 : 1 / 정답 : 0 / 예제 : watching haneke 's film is , aptly enough , a challenge and a punishment .
+
+1424 모델 : 1 / 정답 : 0 / 예제 : going to the website may be just as fun -lrb- and scary -rrb- as going to the film .
+
+1467 모델 : 0 / 정답 : 1 / 예제 : wasabi is slight fare indeed , with the entire project having the feel of something tossed off quickly -lrb- like one of hubert 's punches -rrb- , but it should go down smoothly enough with popcorn .
+
+1488 모델 : 1 / 정답 : 0 / 예제 : the saturation bombing of reggio 's images and glass ' evocative music ... ultimately leaves viewers with the task of divining meaning .
+
+1544 모델 : 1 / 정답 : 0 / 예제 : the pivotal narrative point is so ripe the film ca n't help but go soft and stinky .
+
+1578 모델 : 0 / 정답 : 1 / 예제 : `` men in black ii , '' has all the earmarks of a sequel .
+
+1628 모델 : 1 / 정답 : 0 / 예제 : still , it gets the job done -- a sleepy afternoon rental .
+
+1653 모델 : 1 / 정답 : 0 / 예제 : somewhere short of tremors on the modern b-scene : neither as funny nor as clever , though an agreeably unpretentious way to spend ninety minutes .
+
+1661 모델 : 0 / 정답 : 1 / 예제 : intriguing and beautiful film , but those of you who read the book are likely to be disappointed .
+
+1694 모델 : 1 / 정답 : 0 / 예제 : flat , but with a revelatory performance by michelle williams .
+
+1698 모델 : 1 / 정답 : 0 / 예제 : if you 're not a prepubescent girl , you 'll be laughing at britney spears ' movie-starring debut whenever it does n't have you impatiently squinting at your watch .
+
+1706 모델 : 1 / 정답 : 0 / 예제 : the whole damn thing is ripe for the jerry springer crowd .
+
+1724 모델 : 1 / 정답 : 0 / 예제 : one hour photo is an intriguing snapshot of one man and his delusions ; it 's just too bad it does n't have more flashes of insight .
+
+1735 모델 : 0 / 정답 : 1 / 예제 : for benigni it was n't shakespeare whom he wanted to define his career with but pinocchio .
+
+1760 모델 : 1 / 정답 : 0 / 예제 : ... a haunting vision , with images that seem more like disturbing hallucinations .
+
+1809 모델 : 1 / 정답 : 0 / 예제 : this is pretty dicey material .
+
